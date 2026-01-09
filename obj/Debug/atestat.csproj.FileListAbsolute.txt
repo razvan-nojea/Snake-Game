@@ -1,0 +1,13 @@
+D:\C#\atestat\bin\Debug\atestat.exe.config
+D:\C#\atestat\bin\Debug\atestat.exe
+D:\C#\atestat\bin\Debug\atestat.pdb
+D:\C#\atestat\obj\Debug\atestat.csproj.AssemblyReference.cache
+D:\C#\atestat\obj\Debug\atestat.Form1.resources
+D:\C#\atestat\obj\Debug\atestat.Properties.Resources.resources
+D:\C#\atestat\obj\Debug\atestat.csproj.GenerateResource.cache
+D:\C#\atestat\obj\Debug\atestat.csproj.CoreCompileInputs.cache
+D:\C#\atestat\obj\Debug\atestat.exe
+D:\C#\atestat\obj\Debug\atestat.pdb
+D:\C#\atestat\obj\Debug\atestat.Cre.resources
+D:\C#\atestat\obj\Debug\atestat.Men.resources
+D:\C#\atestat\obj\Debug\atestat.Joc.resources
